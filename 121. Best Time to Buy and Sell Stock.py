@@ -15,4 +15,4 @@ class Solution(object):
 
 # Used two pointers technique to solve this particular problem
 # The first pointer: buy_pointer started from index 0 and sell pointer started from 1 after that just checked the
-# buying and selling price difference 
+# buying and selling price difference
